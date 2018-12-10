@@ -35,4 +35,6 @@
 * [2.30. CONSOLE \(-34000\)](230-console-34000.md)
 * [2.31. SPIO \(-36000\)](231-spio-36000.md)
 * [2.32. SMF \(-93000\)](232-smf-93000.md)
+* [Chapter 3. Colletive Modules](chapter-3-error-without-the-error-code.md)
+* [Chapter 4. Error without the error code](chapter-4-error-without-the-error-code.md)
 
