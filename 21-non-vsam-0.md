@@ -5,8 +5,7 @@ The Non-VSAM module is responsible for managing non-VSAM datasets and I/O to dat
 ## NVSM\_ERR\_NOT\_FOUND \(-301\)
 
 * Description
-  * This error occurs when no records are found that correspond to a given key
-    value.
+  * This error occurs when no records are found that correspond to a given key value.
 
 ### Example 1. Some scenario
 
